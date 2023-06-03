@@ -1,0 +1,335 @@
+Script started on Fri Oct 21 21:35:47 2022
+[1m[7m%[27m[1m[0m                                                                                                     ]633;D]633;P;Cwd=/Users/edgaralcocer/Desktop/CSCE 2014 Programming Foundations II/CSCE 2014 Projects/CSCE 2014 Project 4[0m[27m[24m[J]633;Aedgaralcocer@Edgars-MacBook-Pro CSCE 2014 Project 4 % ]633;B[K[?2004hg++ -Wall *.cpp -o main.exe; ./main.exe[?2004l
+]633;C]633;E;g++ -Wall *.cpp -o main.exe; ./main.exe<><><><><><><><><><><><><><><><><><><>
+Welcome to Project 4!!!
+<><><><><><><><><><><><><><><><><><><>
+1. Create stack for sample 1
+2. Create stack for sample 2
+3. Create stack for sample 3
+4. Create stack for sample 4
+5. Create stack for sample 5
+6. Quit The Program
+Please Select an option: 1
+ valid input breakfast_menu
+ valid input food
+ valid input name
+ input before /name
+input after
+ popping input name
+ valid input price
+ input before /price
+input after
+ popping input price
+ valid input description
+ input before /description
+input after
+ popping input description
+ valid input calories
+ input before /calories
+input after
+ popping input calories
+ input before /food
+input after
+ popping input food
+ valid input food
+ valid input name
+ valid input description
+ input before /description
+input after
+ popping input description
+ valid input calories
+ input before /calories
+input after
+ popping input calories
+ input before /food
+input after
+ valid input food
+ valid input name
+ input before /name
+input after
+ popping input name
+ valid input price
+ input before /price
+input after
+ popping input price
+ valid input description
+ input before /description
+input after
+ popping input description
+ valid input calories
+ input before /calories
+input after
+ popping input calories
+ input before /food
+input after
+ popping input food
+ valid input food
+ valid input name
+ valid input description
+ input before /description
+input after
+ popping input description
+ valid input calories
+ input before /calories
+input after
+ popping input calories
+ input before /food
+input after
+ valid input food
+ valid input name
+ input before /name
+input after
+ popping input name
+ valid input price
+ input before /price
+input after
+ popping input price
+ valid input description
+ input before /description
+input after
+ popping input description
+ valid input calories
+ input before /calories
+input after
+ popping input calories
+ input before /food
+input after
+ popping input food
+ input before /breakfast_menu
+input after
+5
+<><><><><><><><><><><><><><><><><><><>
+Welcome to Project 4!!!
+<><><><><><><><><><><><><><><><><><><>
+1. Create stack for sample 1
+2. Create stack for sample 2
+3. Create stack for sample 3
+4. Create stack for sample 4
+5. Create stack for sample 5
+6. Quit The Program
+Please Select an option: 2
+ valid input bookstore
+ input before /title
+input after
+ valid input author
+ input before /author
+input after
+ popping input author
+ valid input year
+ input before /book
+input after
+ valid input title lang="en"
+ valid input author
+ input before /book
+input after
+ valid input author
+ input before /author
+input after
+ popping input author
+ valid input author
+ input before /book
+input after
+ input before /title
+input after
+ valid input author
+ input before /author
+input after
+ popping input author
+ valid input year
+ input before /book
+input after
+6
+stack: 
+year
+author
+author
+title
+year
+bookstore
+
+<><><><><><><><><><><><><><><><><><><>
+Welcome to Project 4!!!
+<><><><><><><><><><><><><><><><><><><>
+1. Create stack for sample 1
+2. Create stack for sample 2
+3. Create stack for sample 3
+4. Create stack for sample 4
+5. Create stack for sample 5
+6. Quit The Program
+Please Select an option: 3
+ valid input nitf
+ valid input head
+ valid input title
+ input before /title
+input after
+ popping input title
+ input before /head
+input after
+ popping input head
+ valid input body
+ valid input headline
+ valid input hl1
+ input before /hl1
+input after
+ popping input hl1
+ input before /headline
+input after
+ popping input headline
+ valid input byline
+ valid input bytag
+ input before /byline
+input after
+ valid input dateline
+ valid input location
+6
+stack: 
+location
+dateline
+bytag
+byline
+body
+nitf
+
+<><><><><><><><><><><><><><><><><><><>
+Welcome to Project 4!!!
+<><><><><><><><><><><><><><><><><><><>
+1. Create stack for sample 1
+2. Create stack for sample 2
+3. Create stack for sample 3
+4. Create stack for sample 4
+5. Create stack for sample 5
+6. Quit The Program
+Please Select an option: 4
+ valid input current_observation
+ input before /credit
+input after
+ valid input credit_URL
+ input before /credit_URL
+input after
+ popping input credit_URL
+ valid input link
+ input before /location
+input after
+ valid input station_id
+ input before /latitude
+input after
+ valid input longitude
+ valid input observation_time_rfc822
+ input before /weather
+input after
+ valid input temp_f
+ input before /temp_c
+input after
+ valid input relative_humidity
+ valid input wind_dir
+ input before /wind_degrees
+input after
+ valid input wind_mph
+ input before /wind_gust_mph
+input after
+ valid input pressure_mb
+ valid input pressure_in
+ input before /pressure_in
+input after
+ popping input pressure_in
+ valid input dewpoint_f
+ input before /dewpoint_f
+input after
+ popping input dewpoint_f
+ valid input dewpoint_c
+ input before /dewpoint_c
+input after
+ popping input dewpoint_c
+ valid input windchill_f
+ valid input windchill_c
+ input before /windchill_c
+input after
+ popping input windchill_c
+ valid input visibility_mi
+ input before /visibility_mi
+input after
+ popping input visibility_mi
+ input before /icon_url_base
+input after
+ valid input icon_url_name
+ valid input disclaimer_url
+ input before /copyright_url
+input after
+13
+stack: 
+disclaimer_url
+icon_url_name
+windchill_f
+pressure_mb
+wind_mph
+wind_dir
+relative_humidity
+temp_f
+observation_time_rfc822
+longitude
+station_id
+link
+current_observation
+
+XML file was in incorrect format
+<><><><><><><><><><><><><><><><><><><>
+Welcome to Project 4!!!
+<><><><><><><><><><><><><><><><><><><>
+1. Create stack for sample 1
+2. Create stack for sample 2
+3. Create stack for sample 3
+4. Create stack for sample 4
+5. Create stack for sample 5
+6. Quit The Program
+Please Select an option: 5
+ valid input bookstore
+ valid input book category="cooking"
+ valid input author
+ input before /author
+input after
+ popping input author
+ valid input year
+ input before /book
+input after
+ valid input book category="children"
+ valid input title lang="en"
+ valid input author
+ input before /book
+input after
+ valid input book category="web"
+ valid input title lang="en"
+ valid input author
+ input before /author
+input after
+ popping input author
+ valid input year
+ input before /book
+input after
+ input before /bookstore
+input after
+9
+stack: 
+year
+title
+book
+author
+title
+book
+year
+book
+bookstore
+
+XML file was in incorrect format
+<><><><><><><><><><><><><><><><><><><>
+Welcome to Project 4!!!
+<><><><><><><><><><><><><><><><><><><>
+1. Create stack for sample 1
+2. Create stack for sample 2
+3. Create stack for sample 3
+4. Create stack for sample 4
+5. Create stack for sample 5
+6. Quit The Program
+Please Select an option: 6
+[1m[7m%[27m[1m[0m                                                                                                     ]633;D;0]633;P;Cwd=/Users/edgaralcocer/Desktop/CSCE 2014 Programming Foundations II/CSCE 2014 Projects/CSCE 2014 Project 4[0m[27m[24m[J]633;Aedgaralcocer@Edgars-MacBook-Pro CSCE 2014 Project 4 % ]633;B[K[?2004hsscr s  eexit[?2004l
+]633;C]633;E;exit
+Script done on Fri Oct 21 21:36:25 2022
